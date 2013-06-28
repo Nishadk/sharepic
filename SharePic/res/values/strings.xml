@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SharePic</string>
+    <string name="app_name">SharePic</string>
+    <string name="display">Display</string>
+    <string name="comment_">comment :</string>
+    <string name="todo">TODO</string>
+    <string name="comment">Comment to retrieve</string>
+    <string name="date">date</string>
+    <string name="desc">desc</string>
+    <string name="updateMsg">Alarm setting</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="upload">POST</string>
+    <string name="uploadsubject">Say something about this photo....</string>
+    <string name="APP_ID">424054670998993</string>
+    <string name="CREATING_VIEW">Creating view . . .</string>
+    <string name="signin">SignIn</string>
+    <string name="_">" "</string>
+
+</resources>
